@@ -1,0 +1,22 @@
+{
+  "name": "movie-bet",
+  "version": "1.0.0",
+  "description": "an app that uses data from movie ratings on the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burcarz/movie-bet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burcarz/movie-bet/issues"
+  },
+  "homepage": "https://github.com/burcarz/movie-bet#readme",
+  "dependencies": {
+    "metacritic-scraper": "^0.3.4"
+  }
+}
